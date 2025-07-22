@@ -1,0 +1,12 @@
+---
+title: "intro"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: false
+  sort-ui: true
+  filter-ui: true
+page-layout: article
+title-block-banner: "#003366"
+---
