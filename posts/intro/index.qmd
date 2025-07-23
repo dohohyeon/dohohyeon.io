@@ -1,8 +1,12 @@
 ---
-title: "intro"
+title: "introduce"
 author: "dohohyeon"
 date: "2025-07-22"
 categories: [news]
 
 ---
 
+안녕하세요
+LS 빅데이터 스쿨 5기 수강생
+도호현
+입니다.

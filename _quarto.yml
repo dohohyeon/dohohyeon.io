@@ -13,7 +13,7 @@ website:
 format:
   html:
     theme:
-      - ludx
+      - lux
       - brand
     css: styles.css
 
